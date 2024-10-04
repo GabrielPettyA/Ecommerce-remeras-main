@@ -1,5 +1,5 @@
 ## DESARROLLO DE PÁGINA PARA VENTAS DE PRODUCTOS
-  Se realiza una página de ventas, solo marco inicial.
+  Se realiza una página de ventas, frontEnd - BackEnd.
   Se incorporan efectos con CSS.
   Utilización de Formularios necesarios con PHP.
 
