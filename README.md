@@ -2,6 +2,7 @@
   Se realiza una página de ventas, frontEnd - BackEnd.
   Se incorporan efectos con CSS.
   Utilización de Formularios necesarios con PHP.
+  Archivos Html.
 
 ## Ecommerce-remeras: 
                     Página inicial con derivación a página principal. 
