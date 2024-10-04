@@ -3,8 +3,12 @@
   Se incorporan efectos con CSS.
   Utilización de Formularios necesarios con PHP.
 
-# Ecommerce-remeras: 
+## Ecommerce-remeras: 
                     Página inicial con derivación a página principal. 
                     Acceso mediante login.
                     Verificación en la base de datos. 
                     Base de datos y tablas, generada automaticamente.
+
+## Autor:
+- Pettinari Gabriel Alejandro
+- @GabrielPettyA
